@@ -8,5 +8,8 @@
     "watch": "node-sass --watch ./assets/scss/theme.scss -o ./assets/css"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
 }
