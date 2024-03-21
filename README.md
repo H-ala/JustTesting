@@ -2,4 +2,4 @@
 my first git repo
 
 # requirements
-`node-sass`
+`node-sass`, `jquery`
