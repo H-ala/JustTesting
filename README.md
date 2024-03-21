@@ -1,5 +1,5 @@
 # JustTesting
 my first git repo
 
-# requirement
+# requirements
 `node-sass`
